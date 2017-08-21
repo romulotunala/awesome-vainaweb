@@ -3,8 +3,8 @@
 
 ## Tabela de conteúdo
 
-* [**Introdução**](#introducao)
-    * [Módulos](#modulos)
+* [**Introdução**](#introdução)
+    * [Módulos](#módulos)
 * [**01 - Complexo do Alemão**](#01---complexo-do-alemão)
     * [Projetos finais](#projetos-finais)
 * [**02 - Complexo do Alemão e Morro dos Prazeres**](#02---complexo-do-alemão-e-morro-dos-prazeres)
