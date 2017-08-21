@@ -3,6 +3,8 @@
 
 ## Tabela de conteúdo
 
+* [**Introdução**](#introducao)
+    * [Módulos](#modulos)
 * [**01 - Complexo do Alemão**](#01---complexo-do-alemão)
     * [Projetos finais](#projetos-finais)
 * [**02 - Complexo do Alemão e Morro dos Prazeres**](#02---complexo-do-alemão-e-morro-dos-prazeres)
@@ -10,10 +12,23 @@
     
 ## Legenda
 
+* :memo: - Módulo
 * :books: - Projeto final
 * :rocket: - Projeto extra
 
 Dados a partir de janeiro de 2017, quando tudo começou.
+
+# Introdução
+
+Is comming
+
+## Módulos
+
+### :memo: [Primmeiros passos na Web](https://github.com/VaiNaWeb/primeiros-passos-na-web)
+> Módulo01 - HTML, CSS e Design responsivo
+
+### :memo: [Progressive Web Apps](https://github.com/VaiNaWeb/progressive-web-apps)
+> Módulo02 - Aplicações Progressivas com VueJS
 
 ## 01 - Complexo do Alemão
 > Janeiro, Fevereiro e Março de 2017 - Módulo01
