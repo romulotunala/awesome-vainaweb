@@ -51,6 +51,9 @@ Começamos com 45 estudantes e formamos 30.
 
 ### Projetos finais
 
+:books: http://centrosocialagir.com.br/
+> Desenvolvido por [José Petit](josepetit.github.io)
+
 :books: https://kelvgraf.github.io/abaete/
 > Desenvolvido por [Kelvin Fernandes](https://kelvgraf.github.io/)
 
