@@ -24,7 +24,7 @@ Is comming
 
 ## Módulos
 
-### :memo: [Primmeiros passos na Web](https://github.com/VaiNaWeb/primeiros-passos-na-web)
+### :memo: [Primeiros passos na Web](https://github.com/VaiNaWeb/primeiros-passos-na-web)
 > Módulo01 - HTML, CSS e Design responsivo
 
 ### :memo: [Progressive Web Apps](https://github.com/VaiNaWeb/progressive-web-apps)
